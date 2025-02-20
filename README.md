@@ -15,6 +15,9 @@ An interactive quiz platform built with modern web technologies, featuring insta
 - 🏗️ **IndexedDB** – Local storage for quiz history.  
 - 📦 **React Router** – Seamless navigation between pages.  
 
+## 🔗 Deployed Link
+- 🖇️ (https://react-quiz-v1.vercel.app/)
+
 ## 📦 Installation & Setup  
 
 Clone the repository:  
