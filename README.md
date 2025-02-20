@@ -15,12 +15,16 @@ An interactive quiz platform built with modern web technologies, featuring insta
 - 🏗️ **IndexedDB** – Local storage for quiz history.  
 - 📦 **React Router** – Seamless navigation between pages.  
 
+## 🔗 Deployed Link
+- 🖇️ (https://react-quiz-v1.vercel.app/)
+
 ## 📦 Installation & Setup  
 
 Clone the repository:  
 ```sh
 git clone https://github.com/your-username/react-quiz-app.git
 cd react-quiz-app
+```
 
 ## 📌 About the Developer  
 Developed by **Gaurav Sharma**  
