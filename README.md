@@ -21,6 +21,7 @@ Clone the repository:
 ```sh
 git clone https://github.com/your-username/react-quiz-app.git
 cd react-quiz-app
+```
 
 ## 📌 About the Developer  
 Developed by **Gaurav Sharma**  
